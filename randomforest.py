@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, classification_report, mean_absolute_error
+import time
 
 # Carregar o dataset
 dataset = pd.read_csv('treino_sinais_vitais_com_label.txt', header=None)
@@ -14,8 +15,9 @@ y_gravidade = dataset['gravidade']
 y_classe = dataset['classe']
 
 
-with open('resultados_metricas.txt', 'w') as f:
+with open('resultados_metricas_random_forest.txt', 'w') as f:
     for i in range(50):
+        start_time_regressao = time.time()
         # Dividir o dataset em treino e teste para gravidade
         X_train, X_test, y_gravidade_train, y_gravidade_test = train_test_split(X, y_gravidade, test_size=0.2, random_state=i)
 
@@ -31,12 +33,17 @@ with open('resultados_metricas.txt', 'w') as f:
         mae = mean_absolute_error(y_gravidade_test, y_gravidade_pred)
         r2 = r2_score(y_gravidade_test, y_gravidade_pred)
 
+        end_time_regressao = time.time()
+        elapsed_time_regressao = end_time_regressao - start_time_regressao
+
         # Adicionar a gravidade prevista ao conjunto de treino e teste para classe
         X_train_classe = X_train.copy()
         X_train_classe['Gravidade_Prevista'] = rf_regressor.predict(X_train)
 
         X_test_classe = X_test.copy()
         X_test_classe['Gravidade_Prevista'] = y_gravidade_pred
+
+        start_time_classificacao = time.time()
 
         # Treinar o modelo Random Forest para prever a classe com a nova feature
         rf_classifier = RandomForestClassifier(n_estimators=100, random_state=i)
@@ -51,8 +58,13 @@ with open('resultados_metricas.txt', 'w') as f:
         precision = np.mean([report[str(cls)]['precision'] for cls in np.unique(y_classe)])
         recall = np.mean([report[str(cls)]['recall'] for cls in np.unique(y_classe)])
 
+        end_time_classificacao = time.time()
+        elapsed_time_classificacao = end_time_classificacao - start_time_classificacao
+
         # Escrever as métricas no arquivo
         f.write(f"Execução {i+1}:\n")
+        f.write(f"Tempo de Execução (Regressão): {elapsed_time_regressao:.4f} segundos\n")
+        f.write(f"Tempo de Execução (Classificação): {elapsed_time_classificacao:.4f} segundos\n")
         f.write(f"Métricas de Regressão (Gravidade):\n")
         f.write(f"MSE: {mse}\n")
         f.write(f"MAE: {mae}\n")
@@ -63,4 +75,4 @@ with open('resultados_metricas.txt', 'w') as f:
         f.write(f"Recall Médio: {recall}\n")
         f.write("-" * 40 + "\n")
 
-print("Resultados salvos em 'resultados_metricas.txt'.")
+print("Resultados salvos em 'resultados_metricas_random_forest.txt'.")
