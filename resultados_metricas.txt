@@ -1,0 +1,500 @@
+Execução 1:
+Métricas de Regressão (Gravidade):
+MSE: 7.513975100168597
+MAE: 1.7466771473999985
+R²: 0.9739539709993439
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.9115800865800865
+Recall Médio: 0.9053820514576627
+----------------------------------------
+Execução 2:
+Métricas de Regressão (Gravidade):
+MSE: 7.166698781096344
+MAE: 1.6788317903333343
+R²: 0.9762446474978286
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.8989895080839353
+Recall Médio: 0.8765114379084968
+----------------------------------------
+Execução 3:
+Métricas de Regressão (Gravidade):
+MSE: 5.416894329211068
+MAE: 1.4530001244333346
+R²: 0.9800808018410458
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.9560269207501513
+Recall Médio: 0.9074317777079405
+----------------------------------------
+Execução 4:
+Métricas de Regressão (Gravidade):
+MSE: 8.364515746122706
+MAE: 1.7667408731000032
+R²: 0.9677339257777876
+Métricas de Classificação (Classe):
+Accuracy: 0.93
+Precision Média: 0.8882494262765347
+Recall Médio: 0.8240608214465378
+----------------------------------------
+Execução 5:
+Métricas de Regressão (Gravidade):
+MSE: 6.600917589581126
+MAE: 1.6051749984333348
+R²: 0.9747369861418499
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9692247249869042
+Recall Médio: 0.9126075855018307
+----------------------------------------
+Execução 6:
+Métricas de Regressão (Gravidade):
+MSE: 7.044015553585781
+MAE: 1.5807637089333362
+R²: 0.9751988422877327
+Métricas de Classificação (Classe):
+Accuracy: 0.9333333333333333
+Precision Média: 0.945226459875068
+Recall Médio: 0.8701851472296235
+----------------------------------------
+Execução 7:
+Métricas de Regressão (Gravidade):
+MSE: 5.655774667438547
+MAE: 1.427458182266669
+R²: 0.9799124789806265
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9667007150153217
+Recall Médio: 0.8688291620996225
+----------------------------------------
+Execução 8:
+Métricas de Regressão (Gravidade):
+MSE: 5.270760519378866
+MAE: 1.4662109067000013
+R²: 0.9809078658709453
+Métricas de Classificação (Classe):
+Accuracy: 0.95
+Precision Média: 0.964954991816694
+Recall Médio: 0.9036014531916172
+----------------------------------------
+Execução 9:
+Métricas de Regressão (Gravidade):
+MSE: 6.563476877503394
+MAE: 1.6532038792999986
+R²: 0.978924528985746
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.9579666023631541
+Recall Médio: 0.9041001411969153
+----------------------------------------
+Execução 10:
+Métricas de Regressão (Gravidade):
+MSE: 6.261886900699665
+MAE: 1.593039862133333
+R²: 0.9766704353775054
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9096188747731397
+Recall Médio: 0.875483020597963
+----------------------------------------
+Execução 11:
+Métricas de Regressão (Gravidade):
+MSE: 6.413772659381677
+MAE: 1.536287046400001
+R²: 0.978445442414926
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9369281045751634
+Recall Médio: 0.9078450395758089
+----------------------------------------
+Execução 12:
+Métricas de Regressão (Gravidade):
+MSE: 7.261529129251153
+MAE: 1.708786431766669
+R²: 0.9749838729146934
+Métricas de Classificação (Classe):
+Accuracy: 0.9166666666666666
+Precision Média: 0.8714271131073907
+Recall Médio: 0.8579884414615958
+----------------------------------------
+Execução 13:
+Métricas de Regressão (Gravidade):
+MSE: 6.721832346573272
+MAE: 1.580294495400001
+R²: 0.9776943117717005
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.9607905582615212
+Recall Médio: 0.8747169219360543
+----------------------------------------
+Execução 14:
+Métricas de Regressão (Gravidade):
+MSE: 7.483672690243602
+MAE: 1.5950448858666684
+R²: 0.9736946189904218
+Métricas de Classificação (Classe):
+Accuracy: 0.9133333333333333
+Precision Média: 0.9012801312223648
+Recall Médio: 0.8811292308999024
+----------------------------------------
+Execução 15:
+Métricas de Regressão (Gravidade):
+MSE: 5.690276893790085
+MAE: 1.4709528907666678
+R²: 0.9805124304683311
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.9665742793791574
+Recall Médio: 0.9012332369553999
+----------------------------------------
+Execução 16:
+Métricas de Regressão (Gravidade):
+MSE: 4.672235860007494
+MAE: 1.2946780174666666
+R²: 0.9820957233060779
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.9551715634467696
+Recall Médio: 0.89754237619122
+----------------------------------------
+Execução 17:
+Métricas de Regressão (Gravidade):
+MSE: 5.3439283704025105
+MAE: 1.3920799727666675
+R²: 0.9786751281794979
+Métricas de Classificação (Classe):
+Accuracy: 0.9566666666666667
+Precision Média: 0.9729778526721233
+Recall Médio: 0.9061743846474759
+----------------------------------------
+Execução 18:
+Métricas de Regressão (Gravidade):
+MSE: 8.785123493203006
+MAE: 1.6279797233666686
+R²: 0.9676663635568509
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9567828628457371
+Recall Médio: 0.9512097953216374
+----------------------------------------
+Execução 19:
+Métricas de Regressão (Gravidade):
+MSE: 4.99902131636897
+MAE: 1.374819247666665
+R²: 0.977230302088154
+Métricas de Classificação (Classe):
+Accuracy: 0.93
+Precision Média: 0.9459467596592367
+Recall Médio: 0.7833384857012906
+----------------------------------------
+Execução 20:
+Métricas de Regressão (Gravidade):
+MSE: 6.884541402837883
+MAE: 1.7080354774333337
+R²: 0.9754279416069284
+Métricas de Classificação (Classe):
+Accuracy: 0.91
+Precision Média: 0.8820063931013975
+Recall Médio: 0.7942870755370754
+----------------------------------------
+Execução 21:
+Métricas de Regressão (Gravidade):
+MSE: 5.694851237369174
+MAE: 1.512058509633335
+R²: 0.9783415396399805
+Métricas de Classificação (Classe):
+Accuracy: 0.9033333333333333
+Precision Média: 0.9345019480961125
+Recall Médio: 0.7486015630950152
+----------------------------------------
+Execução 22:
+Métricas de Regressão (Gravidade):
+MSE: 5.031667999049201
+MAE: 1.4389351532333345
+R²: 0.9821053084452896
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9360744505875592
+Recall Médio: 0.9529455502173416
+----------------------------------------
+Execução 23:
+Métricas de Regressão (Gravidade):
+MSE: 8.271371073719477
+MAE: 1.7002528446666694
+R²: 0.970342277434481
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.9605444283846101
+Recall Médio: 0.8430052000577783
+----------------------------------------
+Execução 24:
+Métricas de Regressão (Gravidade):
+MSE: 6.165673606737752
+MAE: 1.4846676270333354
+R²: 0.9769208980724987
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.9634376890502118
+Recall Médio: 0.8930382414935261
+----------------------------------------
+Execução 25:
+Métricas de Regressão (Gravidade):
+MSE: 4.614572169892433
+MAE: 1.3352612413666671
+R²: 0.9839642239142774
+Métricas de Classificação (Classe):
+Accuracy: 0.9333333333333333
+Precision Média: 0.9462399706207756
+Recall Médio: 0.8334021327829377
+----------------------------------------
+Execução 26:
+Métricas de Regressão (Gravidade):
+MSE: 4.208633895928938
+MAE: 1.3393292326333344
+R²: 0.9830686107180875
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9524588557993731
+Recall Médio: 0.8793398822961298
+----------------------------------------
+Execução 27:
+Métricas de Regressão (Gravidade):
+MSE: 7.480372608958754
+MAE: 1.6358709668333336
+R²: 0.971715282442977
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.8725850780701245
+Recall Médio: 0.8028241978609626
+----------------------------------------
+Execução 28:
+Métricas de Regressão (Gravidade):
+MSE: 4.3509157655962385
+MAE: 1.3056451396666664
+R²: 0.9832401080577877
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9445567192311777
+Recall Médio: 0.9394037847697219
+----------------------------------------
+Execução 29:
+Métricas de Regressão (Gravidade):
+MSE: 6.179938213436621
+MAE: 1.6181722912333358
+R²: 0.979145114518345
+Métricas de Classificação (Classe):
+Accuracy: 0.95
+Precision Média: 0.9695397575508526
+Recall Médio: 0.921695489790119
+----------------------------------------
+Execução 30:
+Métricas de Regressão (Gravidade):
+MSE: 4.657013810940903
+MAE: 1.414111867466665
+R²: 0.9827125322629704
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.962027325286144
+Recall Médio: 0.9586973736761648
+----------------------------------------
+Execução 31:
+Métricas de Regressão (Gravidade):
+MSE: 7.347403345103712
+MAE: 1.658982621833332
+R²: 0.9729252746610709
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.9281001033874597
+Recall Médio: 0.8867222893385684
+----------------------------------------
+Execução 32:
+Métricas de Regressão (Gravidade):
+MSE: 6.752575413381209
+MAE: 1.6123719774333336
+R²: 0.9770296130119577
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.9630843390206686
+Recall Médio: 0.8725910364145659
+----------------------------------------
+Execução 33:
+Métricas de Regressão (Gravidade):
+MSE: 5.047105433244765
+MAE: 1.4372260834333335
+R²: 0.9799331804346509
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9458333333333333
+Recall Médio: 0.9121962580917805
+----------------------------------------
+Execução 34:
+Métricas de Regressão (Gravidade):
+MSE: 5.493564046732842
+MAE: 1.6086642565000009
+R²: 0.9808236546492909
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9703043089119039
+Recall Médio: 0.9012776057096687
+----------------------------------------
+Execução 35:
+Métricas de Regressão (Gravidade):
+MSE: 7.774160403530632
+MAE: 1.6685241370666655
+R²: 0.9723125862469146
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9522829341317365
+Recall Médio: 0.7956949489707662
+----------------------------------------
+Execução 36:
+Métricas de Regressão (Gravidade):
+MSE: 4.41436821652788
+MAE: 1.3605071840666667
+R²: 0.9847972845931817
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9610342189456114
+Recall Médio: 0.9052156919513608
+----------------------------------------
+Execução 37:
+Métricas de Regressão (Gravidade):
+MSE: 8.185102191683008
+MAE: 1.8073852539999984
+R²: 0.9702603868249686
+Métricas de Classificação (Classe):
+Accuracy: 0.91
+Precision Média: 0.8987574126092385
+Recall Médio: 0.8859359970403256
+----------------------------------------
+Execução 38:
+Métricas de Regressão (Gravidade):
+MSE: 4.737164756990323
+MAE: 1.4291768125333355
+R²: 0.9829483273048876
+Métricas de Classificação (Classe):
+Accuracy: 0.95
+Precision Média: 0.9072159667376212
+Recall Médio: 0.8853557547279266
+----------------------------------------
+Execução 39:
+Métricas de Regressão (Gravidade):
+MSE: 5.745796860379208
+MAE: 1.5081848441
+R²: 0.9810733138382565
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.961341456287985
+Recall Médio: 0.9023015614834092
+----------------------------------------
+Execução 40:
+Métricas de Regressão (Gravidade):
+MSE: 5.538101323175099
+MAE: 1.4463197032333357
+R²: 0.9804708898182802
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9651502343810037
+Recall Médio: 0.8859970743454906
+----------------------------------------
+Execução 41:
+Métricas de Regressão (Gravidade):
+MSE: 5.981124510880092
+MAE: 1.4750045634666684
+R²: 0.9800443133888264
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9036221768480707
+Recall Médio: 0.9458001878650895
+----------------------------------------
+Execução 42:
+Métricas de Regressão (Gravidade):
+MSE: 5.186155125427224
+MAE: 1.4783361195000013
+R²: 0.9802695848726143
+Métricas de Classificação (Classe):
+Accuracy: 0.9366666666666666
+Precision Média: 0.8371506475800954
+Recall Médio: 0.9434302794468928
+----------------------------------------
+Execução 43:
+Métricas de Regressão (Gravidade):
+MSE: 5.808875459361528
+MAE: 1.562805889300002
+R²: 0.978292790544833
+Métricas de Classificação (Classe):
+Accuracy: 0.9566666666666667
+Precision Média: 0.9291053921568628
+Recall Médio: 0.9257048253043677
+----------------------------------------
+Execução 44:
+Métricas de Regressão (Gravidade):
+MSE: 7.058873623501352
+MAE: 1.52477428316667
+R²: 0.9754802218769854
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.9288190448791716
+Recall Médio: 0.9607139360113583
+----------------------------------------
+Execução 45:
+Métricas de Regressão (Gravidade):
+MSE: 7.267659645505099
+MAE: 1.633113933266669
+R²: 0.9737627960981147
+Métricas de Classificação (Classe):
+Accuracy: 0.9433333333333334
+Precision Média: 0.8643961073836263
+Recall Médio: 0.8847203654188949
+----------------------------------------
+Execução 46:
+Métricas de Regressão (Gravidade):
+MSE: 4.980727476667821
+MAE: 1.3791443541666684
+R²: 0.9818380055561916
+Métricas de Classificação (Classe):
+Accuracy: 0.9633333333333334
+Precision Média: 0.9803879140766386
+Recall Médio: 0.958884589197259
+----------------------------------------
+Execução 47:
+Métricas de Regressão (Gravidade):
+MSE: 4.631296427308016
+MAE: 1.4337540251333363
+R²: 0.9819178585556323
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9639138496648124
+Recall Médio: 0.8731438729337889
+----------------------------------------
+Execução 48:
+Métricas de Regressão (Gravidade):
+MSE: 5.602975783440376
+MAE: 1.5133441047000011
+R²: 0.9782184725297407
+Métricas de Classificação (Classe):
+Accuracy: 0.95
+Precision Média: 0.9633453846567389
+Recall Médio: 0.8158437826541275
+----------------------------------------
+Execução 49:
+Métricas de Regressão (Gravidade):
+MSE: 5.215949581447115
+MAE: 1.4950501047666684
+R²: 0.9788799704447421
+Métricas de Classificação (Classe):
+Accuracy: 0.9233333333333333
+Precision Média: 0.9489622764652134
+Recall Médio: 0.8190939093679648
+----------------------------------------
+Execução 50:
+Métricas de Regressão (Gravidade):
+MSE: 8.613262473184328
+MAE: 1.8168802503666681
+R²: 0.972435224330978
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9199754206844394
+Recall Médio: 0.8591348576467623
+----------------------------------------
