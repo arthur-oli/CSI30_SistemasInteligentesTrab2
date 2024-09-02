@@ -1,3 +1,10 @@
+MÉDIAS DAS MÉTRICAS APÓS 50 ITERAÇÕES:
+Tempo Médio de Execução: 0.0168 segundos
+Acurácia Média: 0.9987999999999999
+Precisão Média: 0.9977356144424254
+Recall Médio: 0.9914907097252431
+========================================
+
 Execução 1:
 Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
@@ -8,9 +15,9 @@ Recall Médio: 1.0
 Execução 2:
 Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.9990196078431373
+Recall Médio: 0.9964285714285714
 ----------------------------------------
 Execução 3:
 Tempo de Execução: 0.0140 segundos
@@ -20,70 +27,70 @@ Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 4:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0130 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 5:
-Tempo de Execução: 0.0160 segundos
+Tempo de Execução: 0.0180 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9971590909090909
-Recall Médio: 0.95
+Accuracy: 0.9977777777777778
+Precision Média: 0.9981203007518797
+Recall Médio: 0.9642857142857143
 ----------------------------------------
 Execução 6:
-Tempo de Execução: 0.0120 segundos
+Tempo de Execução: 0.0180 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9969879518072289
-Recall Médio: 0.9583333333333334
+Accuracy: 0.9977777777777778
+Precision Média: 0.9981203007518797
+Recall Médio: 0.96875
 ----------------------------------------
 Execução 7:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9642857142857143
-Recall Médio: 0.9970588235294118
+Accuracy: 0.9977777777777778
+Precision Média: 0.9772727272727273
+Recall Médio: 0.9978991596638656
 ----------------------------------------
 Execução 8:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 9:
-Tempo de Execução: 0.0120 segundos
+Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 10:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9642857142857143
-Recall Médio: 0.9969135802469136
+Accuracy: 0.9977777777777778
+Precision Média: 0.9772727272727273
+Recall Médio: 0.9978448275862069
 ----------------------------------------
 Execução 11:
-Tempo de Execução: 0.0120 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.9980769230769231
+Recall Médio: 0.9807692307692308
 ----------------------------------------
 Execução 12:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0190 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 13:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0190 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
@@ -92,30 +99,30 @@ Recall Médio: 1.0
 Execução 14:
 Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9969135802469136
-Recall Médio: 0.9583333333333334
+Accuracy: 0.9977777777777778
+Precision Média: 0.998015873015873
+Recall Médio: 0.9722222222222222
 ----------------------------------------
 Execução 15:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 16:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0210 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 17:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0280 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.9978448275862069
+Recall Médio: 0.9772727272727273
 ----------------------------------------
 Execução 18:
 Tempo de Execução: 0.0190 segundos
@@ -125,53 +132,53 @@ Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 19:
-Tempo de Execução: 0.0170 segundos
+Tempo de Execução: 0.0210 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.998046875
+Recall Médio: 0.9375
 ----------------------------------------
 Execução 20:
-Tempo de Execução: 0.0160 segundos
+Tempo de Execução: 0.0220 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9966666666666667
-Recall Médio: 0.9583333333333334
+Accuracy: 0.9977777777777778
+Precision Média: 0.997787610619469
+Recall Médio: 0.9791666666666666
 ----------------------------------------
 Execução 21:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0220 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9970238095238095
-Recall Médio: 0.9642857142857143
+Accuracy: 0.9955555555555555
+Precision Média: 0.9957627118644068
+Recall Médio: 0.998046875
 ----------------------------------------
 Execução 22:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0190 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9642857142857143
-Recall Médio: 0.9973404255319149
+Accuracy: 0.9977777777777778
+Precision Média: 0.9791666666666666
+Recall Médio: 0.9981481481481481
 ----------------------------------------
 Execução 23:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 24:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9984848484848485
-Recall Médio: 0.9969135802469136
+Accuracy: 0.9977777777777778
+Precision Média: 0.9990234375
+Recall Médio: 0.9977272727272728
 ----------------------------------------
 Execução 25:
-Tempo de Execução: 0.0120 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9933333333333333
-Precision Média: 0.9949750830564784
-Recall Médio: 0.9651785714285714
+Accuracy: 0.9955555555555555
+Precision Média: 0.9967352092352093
+Recall Médio: 0.9750000000000001
 ----------------------------------------
 Execução 26:
 Tempo de Execução: 0.0150 segundos
@@ -188,84 +195,84 @@ Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 28:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0120 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9955555555555555
+Precision Média: 0.9957983193277311
+Recall Médio: 0.9642857142857143
 ----------------------------------------
 Execução 29:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 30:
-Tempo de Execução: 0.0160 segundos
+Tempo de Execução: 0.0200 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 31:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0240 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 32:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 33:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.9977678571428572
+Recall Médio: 0.9791666666666666
 ----------------------------------------
 Execução 34:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0190 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9722222222222222
-Recall Médio: 0.9973404255319149
+Accuracy: 0.9977777777777778
+Precision Média: 0.9989539748953975
+Recall Médio: 0.9980916030534351
 ----------------------------------------
 Execução 35:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0190 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 36:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 37:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0170 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 38:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9933333333333333
+Precision Média: 0.9941860465116279
+Recall Médio: 0.9318181818181819
 ----------------------------------------
 Execução 39:
-Tempo de Execução: 0.0130 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
@@ -274,26 +281,26 @@ Recall Médio: 1.0
 Execução 40:
 Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9966666666666667
-Recall Médio: 0.9583333333333334
+Accuracy: 0.9977777777777778
+Precision Média: 0.9977272727272728
+Recall Médio: 0.9642857142857143
 ----------------------------------------
 Execução 41:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0167 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 42:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 43:
-Tempo de Execução: 0.0180 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
@@ -307,42 +314,42 @@ Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 45:
-Tempo de Execução: 0.0220 segundos
+Tempo de Execução: 0.0130 segundos
 Métricas de Classificação (Classe):
-Accuracy: 1.0
-Precision Média: 1.0
-Recall Médio: 1.0
+Accuracy: 0.9977777777777778
+Precision Média: 0.9964788732394366
+Recall Médio: 0.998991935483871
 ----------------------------------------
 Execução 46:
-Tempo de Execução: 0.0210 segundos
+Tempo de Execução: 0.0150 segundos
 Métricas de Classificação (Classe):
-Accuracy: 0.9966666666666667
-Precision Média: 0.9985549132947977
-Recall Médio: 0.9965753424657534
+Accuracy: 0.9955555555555555
+Precision Média: 0.995602579819839
+Recall Médio: 0.9968342548979452
 ----------------------------------------
 Execução 47:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 48:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0140 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 49:
-Tempo de Execução: 0.0150 segundos
+Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0
 Recall Médio: 1.0
 ----------------------------------------
 Execução 50:
-Tempo de Execução: 0.0140 segundos
+Tempo de Execução: 0.0160 segundos
 Métricas de Classificação (Classe):
 Accuracy: 1.0
 Precision Média: 1.0

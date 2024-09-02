@@ -1,600 +1,611 @@
+MÉDIAS DAS MÉTRICAS APÓS 50 ITERAÇÕES:
+Tempo Médio de Execução (Regressão): 1.3317 segundos
+Tempo Médio de Execução (Classificação): 0.7449 segundos
+MSE Médio: 5.22145725765306
+MAE Médio: 1.4038590102206663
+R² Médio: 0.980631701257825
+Acurácia Média: 0.9436000000000001
+Precisão Média: 0.9446609139747975
+Recall Médio: 0.9036143387379783
+========================================
+
 Execução 1:
-Tempo de Execução (Regressão): 0.4221 segundos
-Tempo de Execução (Classificação): 0.2831 segundos
+Tempo de Execução (Regressão): 1.0612 segundos
+Tempo de Execução (Classificação): 0.6822 segundos
 Métricas de Regressão (Gravidade):
-MSE: 7.513975100168597
-MAE: 1.7466771473999985
-R²: 0.9739539709993439
+MSE: 4.6405995234554895
+MAE: 1.4313101974000006
+R²: 0.9834220564384493
 Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.9115800865800865
-Recall Médio: 0.9053820514576627
+Accuracy: 0.9466666666666667
+Precision Média: 0.9646959932754272
+Recall Médio: 0.8336585365853658
 ----------------------------------------
 Execução 2:
-Tempo de Execução (Regressão): 0.4191 segundos
-Tempo de Execução (Classificação): 0.2631 segundos
+Tempo de Execução (Regressão): 1.3523 segundos
+Tempo de Execução (Classificação): 0.8012 segundos
 Métricas de Regressão (Gravidade):
-MSE: 7.166698781096344
-MAE: 1.6788317903333343
-R²: 0.9762446474978286
+MSE: 7.102093026728165
+MAE: 1.6492031706666679
+R²: 0.9748856857250017
 Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.8989895080839353
-Recall Médio: 0.8765114379084968
+Accuracy: 0.92
+Precision Média: 0.8817018072289156
+Recall Médio: 0.8824092474827769
 ----------------------------------------
 Execução 3:
-Tempo de Execução (Regressão): 0.4221 segundos
-Tempo de Execução (Classificação): 0.2891 segundos
+Tempo de Execução (Regressão): 1.9568 segundos
+Tempo de Execução (Classificação): 0.7236 segundos
 Métricas de Regressão (Gravidade):
-MSE: 5.416894329211068
-MAE: 1.4530001244333346
-R²: 0.9800808018410458
+MSE: 6.240261150512109
+MAE: 1.5077258929000004
+R²: 0.9751687617461001
 Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.9560269207501513
-Recall Médio: 0.9074317777079405
+Accuracy: 0.9533333333333334
+Precision Média: 0.9622668997668997
+Recall Médio: 0.9672161172161172
 ----------------------------------------
 Execução 4:
-Tempo de Execução (Regressão): 0.4671 segundos
-Tempo de Execução (Classificação): 0.3131 segundos
+Tempo de Execução (Regressão): 1.3401 segundos
+Tempo de Execução (Classificação): 0.6923 segundos
 Métricas de Regressão (Gravidade):
-MSE: 8.364515746122706
-MAE: 1.7667408731000032
-R²: 0.9677339257777876
+MSE: 5.325942465116242
+MAE: 1.4743250800666703
+R²: 0.9762606070696843
 Métricas de Classificação (Classe):
-Accuracy: 0.93
-Precision Média: 0.8882494262765347
-Recall Médio: 0.8240608214465378
+Accuracy: 0.92
+Precision Média: 0.9504830917874396
+Recall Médio: 0.8051664956995186
 ----------------------------------------
 Execução 5:
-Tempo de Execução (Regressão): 0.5260 segundos
-Tempo de Execução (Classificação): 0.3071 segundos
+Tempo de Execução (Regressão): 1.2675 segundos
+Tempo de Execução (Classificação): 0.6912 segundos
 Métricas de Regressão (Gravidade):
-MSE: 6.600917589581126
-MAE: 1.6051749984333348
-R²: 0.9747369861418499
+MSE: 7.808938544455045
+MAE: 1.669142430033332
+R²: 0.970064089622623
+Métricas de Classificação (Classe):
+Accuracy: 0.9733333333333334
+Precision Média: 0.9823481116584565
+Recall Médio: 0.8899501661129567
+----------------------------------------
+Execução 6:
+Tempo de Execução (Regressão): 1.3777 segundos
+Tempo de Execução (Classificação): 0.7674 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.802137915610789
+MAE: 1.4716085272999953
+R²: 0.9800032695900461
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9553405572755418
+Recall Médio: 0.8949019607843137
+----------------------------------------
+Execução 7:
+Tempo de Execução (Regressão): 1.3304 segundos
+Tempo de Execução (Classificação): 0.7733 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.332553510680554
+MAE: 1.3054305067000034
+R²: 0.9861944979572247
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.9708624708624709
+Recall Médio: 0.891025641025641
+----------------------------------------
+Execução 8:
+Tempo de Execução (Regressão): 1.2891 segundos
+Tempo de Execução (Classificação): 0.7412 segundos
+Métricas de Regressão (Gravidade):
+MSE: 3.4180417064249538
+MAE: 1.2081150287999936
+R²: 0.9875891300132159
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.9633736559139785
+Recall Médio: 0.910031021723181
+----------------------------------------
+Execução 9:
+Tempo de Execução (Regressão): 1.3710 segundos
+Tempo de Execução (Classificação): 0.7959 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.556398265744207
+MAE: 1.3716956520333337
+R²: 0.9848583077141443
+Métricas de Classificação (Classe):
+Accuracy: 0.98
+Precision Média: 0.9845581248020272
+Recall Médio: 0.8655032467532467
+----------------------------------------
+Execução 10:
+Tempo de Execução (Regressão): 1.3403 segundos
+Tempo de Execução (Classificação): 0.6872 segundos
+Métricas de Regressão (Gravidade):
+MSE: 3.5867940479868228
+MAE: 1.2468208464999937
+R²: 0.9858643754007047
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9497326997326998
+Recall Médio: 0.9398273273273273
+----------------------------------------
+Execução 11:
+Tempo de Execução (Regressão): 1.2412 segundos
+Tempo de Execução (Classificação): 0.6816 segundos
+Métricas de Regressão (Gravidade):
+MSE: 6.464045231581493
+MAE: 1.5244140309333314
+R²: 0.9791385043620346
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.927102238354507
+Recall Médio: 0.9212009803921569
+----------------------------------------
+Execução 12:
+Tempo de Execução (Regressão): 1.2437 segundos
+Tempo de Execução (Classificação): 0.6752 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.089973223578273
+MAE: 1.4566352220000036
+R²: 0.9837701931826129
+Métricas de Classificação (Classe):
+Accuracy: 0.9333333333333333
+Precision Média: 0.9063176406926406
+Recall Médio: 0.9487012987012987
+----------------------------------------
+Execução 13:
+Tempo de Execução (Regressão): 1.2476 segundos
+Tempo de Execução (Classificação): 0.6997 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.343093389069597
+MAE: 1.4265048453333327
+R²: 0.9810534379830577
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9662790697674418
+Recall Médio: 0.9162164131258379
+----------------------------------------
+Execução 14:
+Tempo de Execução (Regressão): 1.4843 segundos
+Tempo de Execução (Classificação): 0.8182 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.374219038143642
+MAE: 1.3433958151666665
+R²: 0.9830216959736132
+Métricas de Classificação (Classe):
+Accuracy: 0.92
+Precision Média: 0.9452341137123746
+Recall Médio: 0.8495875864296917
+----------------------------------------
+Execução 15:
+Tempo de Execução (Regressão): 1.3473 segundos
+Tempo de Execução (Classificação): 0.7282 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.343293119769584
+MAE: 1.1902713105999998
+R²: 0.9853046764846186
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9696499153020892
+Recall Médio: 0.9459284627092847
+----------------------------------------
+Execução 16:
+Tempo de Execução (Regressão): 1.2563 segundos
+Tempo de Execução (Classificação): 0.6872 segundos
+Métricas de Regressão (Gravidade):
+MSE: 6.298779462310458
+MAE: 1.4551336430333242
+R²: 0.9771042700829057
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9572557471264368
+Recall Médio: 0.8651724137931034
+----------------------------------------
+Execução 17:
+Tempo de Execução (Regressão): 1.2398 segundos
+Tempo de Execução (Classificação): 0.7711 segundos
+Métricas de Regressão (Gravidade):
+MSE: 3.4699027711833335
+MAE: 1.1693501992000024
+R²: 0.9870324541333435
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.9674904214559388
+Recall Médio: 0.9650056839712012
+----------------------------------------
+Execução 18:
+Tempo de Execução (Regressão): 1.3288 segundos
+Tempo de Execução (Classificação): 0.7582 segundos
+Métricas de Regressão (Gravidade):
+MSE: 3.2267572680282854
+MAE: 1.2192526691000052
+R²: 0.986919985724209
+Métricas de Classificação (Classe):
+Accuracy: 0.9333333333333333
+Precision Média: 0.9461566888396157
+Recall Médio: 0.9560924044758418
+----------------------------------------
+Execução 19:
+Tempo de Execução (Regressão): 1.3358 segundos
+Tempo de Execução (Classificação): 0.7732 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.649885484599428
+MAE: 1.3927659078333385
+R²: 0.9751867631343621
 Métricas de Classificação (Classe):
 Accuracy: 0.9533333333333334
 Precision Média: 0.9692247249869042
-Recall Médio: 0.9126075855018307
-----------------------------------------
-Execução 6:
-Tempo de Execução (Regressão): 0.4471 segundos
-Tempo de Execução (Classificação): 0.2451 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.044015553585781
-MAE: 1.5807637089333362
-R²: 0.9751988422877327
-Métricas de Classificação (Classe):
-Accuracy: 0.9333333333333333
-Precision Média: 0.945226459875068
-Recall Médio: 0.8701851472296235
-----------------------------------------
-Execução 7:
-Tempo de Execução (Regressão): 0.4571 segundos
-Tempo de Execução (Classificação): 0.2821 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.655774667438547
-MAE: 1.427458182266669
-R²: 0.9799124789806265
-Métricas de Classificação (Classe):
-Accuracy: 0.9466666666666667
-Precision Média: 0.9667007150153217
-Recall Médio: 0.8688291620996225
-----------------------------------------
-Execução 8:
-Tempo de Execução (Regressão): 0.4387 segundos
-Tempo de Execução (Classificação): 0.2550 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.270760519378866
-MAE: 1.4662109067000013
-R²: 0.9809078658709453
-Métricas de Classificação (Classe):
-Accuracy: 0.95
-Precision Média: 0.964954991816694
-Recall Médio: 0.9036014531916172
-----------------------------------------
-Execução 9:
-Tempo de Execução (Regressão): 0.4291 segundos
-Tempo de Execução (Classificação): 0.2561 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.563476877503394
-MAE: 1.6532038792999986
-R²: 0.978924528985746
-Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.9579666023631541
-Recall Médio: 0.9041001411969153
-----------------------------------------
-Execução 10:
-Tempo de Execução (Regressão): 0.4291 segundos
-Tempo de Execução (Classificação): 0.2511 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.261886900699665
-MAE: 1.593039862133333
-R²: 0.9766704353775054
-Métricas de Classificação (Classe):
-Accuracy: 0.94
-Precision Média: 0.9096188747731397
-Recall Médio: 0.875483020597963
-----------------------------------------
-Execução 11:
-Tempo de Execução (Regressão): 0.4201 segundos
-Tempo de Execução (Classificação): 0.2510 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.413772659381677
-MAE: 1.536287046400001
-R²: 0.978445442414926
-Métricas de Classificação (Classe):
-Accuracy: 0.9466666666666667
-Precision Média: 0.9369281045751634
-Recall Médio: 0.9078450395758089
-----------------------------------------
-Execução 12:
-Tempo de Execução (Regressão): 0.4210 segundos
-Tempo de Execução (Classificação): 0.2546 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.261529129251153
-MAE: 1.708786431766669
-R²: 0.9749838729146934
-Métricas de Classificação (Classe):
-Accuracy: 0.9166666666666666
-Precision Média: 0.8714271131073907
-Recall Médio: 0.8579884414615958
-----------------------------------------
-Execução 13:
-Tempo de Execução (Regressão): 0.4190 segundos
-Tempo de Execução (Classificação): 0.2527 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.721832346573272
-MAE: 1.580294495400001
-R²: 0.9776943117717005
-Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.9607905582615212
-Recall Médio: 0.8747169219360543
-----------------------------------------
-Execução 14:
-Tempo de Execução (Regressão): 0.4411 segundos
-Tempo de Execução (Classificação): 0.2481 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.483672690243602
-MAE: 1.5950448858666684
-R²: 0.9736946189904218
-Métricas de Classificação (Classe):
-Accuracy: 0.9133333333333333
-Precision Média: 0.9012801312223648
-Recall Médio: 0.8811292308999024
-----------------------------------------
-Execução 15:
-Tempo de Execução (Regressão): 0.4181 segundos
-Tempo de Execução (Classificação): 0.2431 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.690276893790085
-MAE: 1.4709528907666678
-R²: 0.9805124304683311
-Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.9665742793791574
-Recall Médio: 0.9012332369553999
-----------------------------------------
-Execução 16:
-Tempo de Execução (Regressão): 0.4151 segundos
-Tempo de Execução (Classificação): 0.2411 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.672235860007494
-MAE: 1.2946780174666666
-R²: 0.9820957233060779
-Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.9551715634467696
-Recall Médio: 0.89754237619122
-----------------------------------------
-Execução 17:
-Tempo de Execução (Regressão): 0.4251 segundos
-Tempo de Execução (Classificação): 0.2468 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.3439283704025105
-MAE: 1.3920799727666675
-R²: 0.9786751281794979
-Métricas de Classificação (Classe):
-Accuracy: 0.9566666666666667
-Precision Média: 0.9729778526721233
-Recall Médio: 0.9061743846474759
-----------------------------------------
-Execução 18:
-Tempo de Execução (Regressão): 0.4215 segundos
-Tempo de Execução (Classificação): 0.2434 segundos
-Métricas de Regressão (Gravidade):
-MSE: 8.785123493203006
-MAE: 1.6279797233666686
-R²: 0.9676663635568509
-Métricas de Classificação (Classe):
-Accuracy: 0.94
-Precision Média: 0.9567828628457371
-Recall Médio: 0.9512097953216374
-----------------------------------------
-Execução 19:
-Tempo de Execução (Regressão): 0.4191 segundos
-Tempo de Execução (Classificação): 0.2481 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.99902131636897
-MAE: 1.374819247666665
-R²: 0.977230302088154
-Métricas de Classificação (Classe):
-Accuracy: 0.93
-Precision Média: 0.9459467596592367
-Recall Médio: 0.7833384857012906
+Recall Médio: 0.84929718875502
 ----------------------------------------
 Execução 20:
-Tempo de Execução (Regressão): 0.4371 segundos
-Tempo de Execução (Classificação): 0.2491 segundos
+Tempo de Execução (Regressão): 1.5577 segundos
+Tempo de Execução (Classificação): 0.7600 segundos
 Métricas de Regressão (Gravidade):
-MSE: 6.884541402837883
-MAE: 1.7080354774333337
-R²: 0.9754279416069284
+MSE: 7.130188647714616
+MAE: 1.6933846696333381
+R²: 0.9765381313361821
 Métricas de Classificação (Classe):
-Accuracy: 0.91
-Precision Média: 0.8820063931013975
-Recall Médio: 0.7942870755370754
+Accuracy: 0.9066666666666666
+Precision Média: 0.8609708193041526
+Recall Médio: 0.7756707610366147
 ----------------------------------------
 Execução 21:
-Tempo de Execução (Regressão): 0.4251 segundos
-Tempo de Execução (Classificação): 0.2421 segundos
+Tempo de Execução (Regressão): 1.4407 segundos
+Tempo de Execução (Classificação): 0.7172 segundos
 Métricas de Regressão (Gravidade):
-MSE: 5.694851237369174
-MAE: 1.512058509633335
-R²: 0.9783415396399805
+MSE: 5.751356484505262
+MAE: 1.5846217643333353
+R²: 0.9754637774769537
 Métricas de Classificação (Classe):
-Accuracy: 0.9033333333333333
-Precision Média: 0.9345019480961125
-Recall Médio: 0.7486015630950152
+Accuracy: 0.92
+Precision Média: 0.6870900417412045
+Recall Médio: 0.7039579757632496
 ----------------------------------------
 Execução 22:
-Tempo de Execução (Regressão): 0.4281 segundos
-Tempo de Execução (Classificação): 0.2431 segundos
+Tempo de Execução (Regressão): 1.4103 segundos
+Tempo de Execução (Classificação): 0.7762 segundos
 Métricas de Regressão (Gravidade):
-MSE: 5.031667999049201
-MAE: 1.4389351532333345
-R²: 0.9821053084452896
+MSE: 4.659804113144495
+MAE: 1.3444089218666633
+R²: 0.980744556447229
 Métricas de Classificação (Classe):
-Accuracy: 0.9466666666666667
-Precision Média: 0.9360744505875592
-Recall Médio: 0.9529455502173416
+Accuracy: 0.9533333333333334
+Precision Média: 0.9694277108433735
+Recall Médio: 0.952985347985348
 ----------------------------------------
 Execução 23:
-Tempo de Execução (Regressão): 0.4251 segundos
-Tempo de Execução (Classificação): 0.2471 segundos
+Tempo de Execução (Regressão): 1.3652 segundos
+Tempo de Execução (Classificação): 0.6962 segundos
 Métricas de Regressão (Gravidade):
-MSE: 8.271371073719477
-MAE: 1.7002528446666694
-R²: 0.970342277434481
+MSE: 6.934617056212158
+MAE: 1.4713099086666621
+R²: 0.9696518184656684
 Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.9605444283846101
-Recall Médio: 0.8430052000577783
+Accuracy: 0.9533333333333334
+Precision Média: 0.9722732843137254
+Recall Médio: 0.9543458781362006
 ----------------------------------------
 Execução 24:
-Tempo de Execução (Regressão): 0.4228 segundos
-Tempo de Execução (Classificação): 0.2515 segundos
+Tempo de Execução (Regressão): 1.2783 segundos
+Tempo de Execução (Classificação): 0.7892 segundos
 Métricas de Regressão (Gravidade):
-MSE: 6.165673606737752
-MAE: 1.4846676270333354
-R²: 0.9769208980724987
+MSE: 5.48279013971833
+MAE: 1.3006522411999988
+R²: 0.9773716757443076
 Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.9634376890502118
-Recall Médio: 0.8930382414935261
+Accuracy: 0.9466666666666667
+Precision Média: 0.9690590111642743
+Recall Médio: 0.9432067932067931
 ----------------------------------------
 Execução 25:
-Tempo de Execução (Regressão): 0.4180 segundos
-Tempo de Execução (Classificação): 0.2481 segundos
+Tempo de Execução (Regressão): 1.2451 segundos
+Tempo de Execução (Classificação): 0.7922 segundos
 Métricas de Regressão (Gravidade):
-MSE: 4.614572169892433
-MAE: 1.3352612413666671
-R²: 0.9839642239142774
+MSE: 3.4223847360153967
+MAE: 1.2093978624666601
+R²: 0.9883464352315061
 Métricas de Classificação (Classe):
-Accuracy: 0.9333333333333333
-Precision Média: 0.9462399706207756
-Recall Médio: 0.8334021327829377
+Accuracy: 0.94
+Precision Média: 0.9489356135712712
+Recall Médio: 0.8583333333333334
 ----------------------------------------
 Execução 26:
-Tempo de Execução (Regressão): 0.4211 segundos
-Tempo de Execução (Classificação): 0.2451 segundos
+Tempo de Execução (Regressão): 1.3468 segundos
+Tempo de Execução (Classificação): 0.6992 segundos
 Métricas de Regressão (Gravidade):
-MSE: 4.208633895928938
-MAE: 1.3393292326333344
-R²: 0.9830686107180875
-Métricas de Classificação (Classe):
-Accuracy: 0.9466666666666667
-Precision Média: 0.9524588557993731
-Recall Médio: 0.8793398822961298
-----------------------------------------
-Execução 27:
-Tempo de Execução (Regressão): 0.4221 segundos
-Tempo de Execução (Classificação): 0.2469 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.480372608958754
-MAE: 1.6358709668333336
-R²: 0.971715282442977
-Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.8725850780701245
-Recall Médio: 0.8028241978609626
-----------------------------------------
-Execução 28:
-Tempo de Execução (Regressão): 0.4222 segundos
-Tempo de Execução (Classificação): 0.2520 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.3509157655962385
-MAE: 1.3056451396666664
-R²: 0.9832401080577877
-Métricas de Classificação (Classe):
-Accuracy: 0.9266666666666666
-Precision Média: 0.9445567192311777
-Recall Médio: 0.9394037847697219
-----------------------------------------
-Execução 29:
-Tempo de Execução (Regressão): 0.4561 segundos
-Tempo de Execução (Classificação): 0.2621 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.179938213436621
-MAE: 1.6181722912333358
-R²: 0.979145114518345
-Métricas de Classificação (Classe):
-Accuracy: 0.95
-Precision Média: 0.9695397575508526
-Recall Médio: 0.921695489790119
-----------------------------------------
-Execução 30:
-Tempo de Execução (Regressão): 0.4249 segundos
-Tempo de Execução (Classificação): 0.2470 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.657013810940903
-MAE: 1.414111867466665
-R²: 0.9827125322629704
-Métricas de Classificação (Classe):
-Accuracy: 0.9466666666666667
-Precision Média: 0.962027325286144
-Recall Médio: 0.9586973736761648
-----------------------------------------
-Execução 31:
-Tempo de Execução (Regressão): 0.4260 segundos
-Tempo de Execução (Classificação): 0.2510 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.347403345103712
-MAE: 1.658982621833332
-R²: 0.9729252746610709
-Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.9281001033874597
-Recall Médio: 0.8867222893385684
-----------------------------------------
-Execução 32:
-Tempo de Execução (Regressão): 0.4171 segundos
-Tempo de Execução (Classificação): 0.2500 segundos
-Métricas de Regressão (Gravidade):
-MSE: 6.752575413381209
-MAE: 1.6123719774333336
-R²: 0.9770296130119577
-Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.9630843390206686
-Recall Médio: 0.8725910364145659
-----------------------------------------
-Execução 33:
-Tempo de Execução (Regressão): 0.4230 segundos
-Tempo de Execução (Classificação): 0.2470 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.047105433244765
-MAE: 1.4372260834333335
-R²: 0.9799331804346509
-Métricas de Classificação (Classe):
-Accuracy: 0.94
-Precision Média: 0.9458333333333333
-Recall Médio: 0.9121962580917805
-----------------------------------------
-Execução 34:
-Tempo de Execução (Regressão): 0.4170 segundos
-Tempo de Execução (Classificação): 0.2500 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.493564046732842
-MAE: 1.6086642565000009
-R²: 0.9808236546492909
-Métricas de Classificação (Classe):
-Accuracy: 0.9533333333333334
-Precision Média: 0.9703043089119039
-Recall Médio: 0.9012776057096687
-----------------------------------------
-Execução 35:
-Tempo de Execução (Regressão): 0.4241 segundos
-Tempo de Execução (Classificação): 0.2550 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.774160403530632
-MAE: 1.6685241370666655
-R²: 0.9723125862469146
-Métricas de Classificação (Classe):
-Accuracy: 0.9266666666666666
-Precision Média: 0.9522829341317365
-Recall Médio: 0.7956949489707662
-----------------------------------------
-Execução 36:
-Tempo de Execução (Regressão): 0.4301 segundos
-Tempo de Execução (Classificação): 0.2579 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.41436821652788
-MAE: 1.3605071840666667
-R²: 0.9847972845931817
-Métricas de Classificação (Classe):
-Accuracy: 0.94
-Precision Média: 0.9610342189456114
-Recall Médio: 0.9052156919513608
-----------------------------------------
-Execução 37:
-Tempo de Execução (Regressão): 0.4341 segundos
-Tempo de Execução (Classificação): 0.2531 segundos
-Métricas de Regressão (Gravidade):
-MSE: 8.185102191683008
-MAE: 1.8073852539999984
-R²: 0.9702603868249686
-Métricas de Classificação (Classe):
-Accuracy: 0.91
-Precision Média: 0.8987574126092385
-Recall Médio: 0.8859359970403256
-----------------------------------------
-Execução 38:
-Tempo de Execução (Regressão): 0.4271 segundos
-Tempo de Execução (Classificação): 0.2521 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.737164756990323
-MAE: 1.4291768125333355
-R²: 0.9829483273048876
-Métricas de Classificação (Classe):
-Accuracy: 0.95
-Precision Média: 0.9072159667376212
-Recall Médio: 0.8853557547279266
-----------------------------------------
-Execução 39:
-Tempo de Execução (Regressão): 0.4451 segundos
-Tempo de Execução (Classificação): 0.2471 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.745796860379208
-MAE: 1.5081848441
-R²: 0.9810733138382565
-Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.961341456287985
-Recall Médio: 0.9023015614834092
-----------------------------------------
-Execução 40:
-Tempo de Execução (Regressão): 0.4347 segundos
-Tempo de Execução (Classificação): 0.2551 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.538101323175099
-MAE: 1.4463197032333357
-R²: 0.9804708898182802
-Métricas de Classificação (Classe):
-Accuracy: 0.9533333333333334
-Precision Média: 0.9651502343810037
-Recall Médio: 0.8859970743454906
-----------------------------------------
-Execução 41:
-Tempo de Execução (Regressão): 0.4291 segundos
-Tempo de Execução (Classificação): 0.2501 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.981124510880092
-MAE: 1.4750045634666684
-R²: 0.9800443133888264
-Métricas de Classificação (Classe):
-Accuracy: 0.94
-Precision Média: 0.9036221768480707
-Recall Médio: 0.9458001878650895
-----------------------------------------
-Execução 42:
-Tempo de Execução (Regressão): 0.4211 segundos
-Tempo de Execução (Classificação): 0.2611 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.186155125427224
-MAE: 1.4783361195000013
-R²: 0.9802695848726143
-Métricas de Classificação (Classe):
-Accuracy: 0.9366666666666666
-Precision Média: 0.8371506475800954
-Recall Médio: 0.9434302794468928
-----------------------------------------
-Execução 43:
-Tempo de Execução (Regressão): 0.4307 segundos
-Tempo de Execução (Classificação): 0.2560 segundos
-Métricas de Regressão (Gravidade):
-MSE: 5.808875459361528
-MAE: 1.562805889300002
-R²: 0.978292790544833
-Métricas de Classificação (Classe):
-Accuracy: 0.9566666666666667
-Precision Média: 0.9291053921568628
-Recall Médio: 0.9257048253043677
-----------------------------------------
-Execução 44:
-Tempo de Execução (Regressão): 0.4441 segundos
-Tempo de Execução (Classificação): 0.2541 segundos
-Métricas de Regressão (Gravidade):
-MSE: 7.058873623501352
-MAE: 1.52477428316667
-R²: 0.9754802218769854
+MSE: 3.8472491195736285
+MAE: 1.2265318146666735
+R²: 0.9837340790598276
 Métricas de Classificação (Classe):
 Accuracy: 0.96
-Precision Média: 0.9288190448791716
-Recall Médio: 0.9607139360113583
+Precision Média: 0.9628448076723939
+Recall Médio: 0.9588235294117647
 ----------------------------------------
-Execução 45:
-Tempo de Execução (Regressão): 0.4391 segundos
-Tempo de Execução (Classificação): 0.2650 segundos
+Execução 27:
+Tempo de Execução (Regressão): 1.2328 segundos
+Tempo de Execução (Classificação): 0.7222 segundos
 Métricas de Regressão (Gravidade):
-MSE: 7.267659645505099
-MAE: 1.633113933266669
-R²: 0.9737627960981147
-Métricas de Classificação (Classe):
-Accuracy: 0.9433333333333334
-Precision Média: 0.8643961073836263
-Recall Médio: 0.8847203654188949
-----------------------------------------
-Execução 46:
-Tempo de Execução (Regressão): 0.4312 segundos
-Tempo de Execução (Classificação): 0.2470 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.980727476667821
-MAE: 1.3791443541666684
-R²: 0.9818380055561916
-Métricas de Classificação (Classe):
-Accuracy: 0.9633333333333334
-Precision Média: 0.9803879140766386
-Recall Médio: 0.958884589197259
-----------------------------------------
-Execução 47:
-Tempo de Execução (Regressão): 0.4190 segundos
-Tempo de Execução (Classificação): 0.2460 segundos
-Métricas de Regressão (Gravidade):
-MSE: 4.631296427308016
-MAE: 1.4337540251333363
-R²: 0.9819178585556323
+MSE: 6.004732361489722
+MAE: 1.4954185682999972
+R²: 0.9772336163218628
 Métricas de Classificação (Classe):
 Accuracy: 0.9466666666666667
-Precision Média: 0.9639138496648124
-Recall Médio: 0.8731438729337889
+Precision Média: 0.9644607843137255
+Recall Médio: 0.8712833914053425
 ----------------------------------------
-Execução 48:
-Tempo de Execução (Regressão): 0.4182 segundos
-Tempo de Execução (Classificação): 0.2480 segundos
+Execução 28:
+Tempo de Execução (Regressão): 1.2868 segundos
+Tempo de Execução (Classificação): 0.7618 segundos
 Métricas de Regressão (Gravidade):
-MSE: 5.602975783440376
-MAE: 1.5133441047000011
-R²: 0.9782184725297407
+MSE: 3.2504531737881455
+MAE: 1.0913581961666656
+R²: 0.9878726146981922
 Métricas de Classificação (Classe):
-Accuracy: 0.95
-Precision Média: 0.9633453846567389
-Recall Médio: 0.8158437826541275
+Accuracy: 0.9666666666666667
+Precision Média: 0.9637596899224806
+Recall Médio: 0.9795047856845609
 ----------------------------------------
-Execução 49:
-Tempo de Execução (Regressão): 0.4268 segundos
-Tempo de Execução (Classificação): 0.2480 segundos
+Execução 29:
+Tempo de Execução (Regressão): 1.3423 segundos
+Tempo de Execução (Classificação): 0.7064 segundos
 Métricas de Regressão (Gravidade):
-MSE: 5.215949581447115
-MAE: 1.4950501047666684
-R²: 0.9788799704447421
+MSE: 5.35286396217292
+MAE: 1.548321111300002
+R²: 0.9827140292739862
 Métricas de Classificação (Classe):
-Accuracy: 0.9233333333333333
-Precision Média: 0.9489622764652134
-Recall Médio: 0.8190939093679648
+Accuracy: 0.9333333333333333
+Precision Média: 0.9606481481481481
+Recall Médio: 0.8616461580530489
 ----------------------------------------
-Execução 50:
-Tempo de Execução (Regressão): 0.4236 segundos
-Tempo de Execução (Classificação): 0.2561 segundos
+Execução 30:
+Tempo de Execução (Regressão): 1.2611 segundos
+Tempo de Execução (Classificação): 1.0547 segundos
 Métricas de Regressão (Gravidade):
-MSE: 8.613262473184328
-MAE: 1.8168802503666681
-R²: 0.972435224330978
+MSE: 3.389316214780785
+MAE: 1.2813489748666689
+R²: 0.9843264160296805
+Métricas de Classificação (Classe):
+Accuracy: 0.92
+Precision Média: 0.9338634338634338
+Recall Médio: 0.893235294117647
+----------------------------------------
+Execução 31:
+Tempo de Execução (Regressão): 1.3481 segundos
+Tempo de Execução (Classificação): 0.7152 segundos
+Métricas de Regressão (Gravidade):
+MSE: 7.52755106731137
+MAE: 1.6403367032333405
+R²: 0.9734531617036704
+Métricas de Classificação (Classe):
+Accuracy: 0.9333333333333333
+Precision Média: 0.9581460674157303
+Recall Médio: 0.8805021274115521
+----------------------------------------
+Execução 32:
+Tempo de Execução (Regressão): 1.3093 segundos
+Tempo de Execução (Classificação): 0.7068 segundos
+Métricas de Regressão (Gravidade):
+MSE: 6.492885731163943
+MAE: 1.541958227599992
+R²: 0.9789191803249617
+Métricas de Classificação (Classe):
+Accuracy: 0.9133333333333333
+Precision Média: 0.9112777472023482
+Recall Médio: 0.8886743886743887
+----------------------------------------
+Execução 33:
+Tempo de Execução (Regressão): 1.2547 segundos
+Tempo de Execução (Classificação): 0.7062 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.7065357381801505
+MAE: 1.3570835500666665
+R²: 0.9784779027096476
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9307492976847815
+Recall Médio: 0.950077947845805
+----------------------------------------
+Execução 34:
+Tempo de Execução (Regressão): 1.2950 segundos
+Tempo de Execução (Classificação): 0.7064 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.4769757743867284
+MAE: 1.3602207066000005
+R²: 0.9832085596395825
+Métricas de Classificação (Classe):
+Accuracy: 0.9666666666666667
+Precision Média: 0.9808257779955893
+Recall Médio: 0.9030431848852901
+----------------------------------------
+Execução 35:
+Tempo de Execução (Regressão): 1.3525 segundos
+Tempo de Execução (Classificação): 0.7497 segundos
+Métricas de Regressão (Gravidade):
+MSE: 7.138438338918709
+MAE: 1.4538948770666666
+R²: 0.9778593470252418
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9708049886621315
+Recall Médio: 0.8852891156462585
+----------------------------------------
+Execução 36:
+Tempo de Execução (Regressão): 1.2566 segundos
+Tempo de Execução (Classificação): 0.6812 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.138560440066329
+MAE: 1.4815780840999941
+R²: 0.9821468781059984
+Métricas de Classificação (Classe):
+Accuracy: 0.9666666666666667
+Precision Média: 0.9777925531914894
+Recall Médio: 0.9738215488215488
+----------------------------------------
+Execução 37:
+Tempo de Execução (Regressão): 1.3256 segundos
+Tempo de Execução (Classificação): 0.8192 segundos
+Métricas de Regressão (Gravidade):
+MSE: 6.801449750557483
+MAE: 1.5386918810333328
+R²: 0.9758814452875797
+Métricas de Classificação (Classe):
+Accuracy: 0.9133333333333333
+Precision Média: 0.8542824074074074
+Recall Médio: 0.9325261973495783
+----------------------------------------
+Execução 38:
+Tempo de Execução (Regressão): 1.4142 segundos
+Tempo de Execução (Classificação): 0.7086 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.0954920439151605
+MAE: 1.3870789935333274
+R²: 0.9855198262209837
 Métricas de Classificação (Classe):
 Accuracy: 0.94
-Precision Média: 0.9199754206844394
-Recall Médio: 0.8591348576467623
+Precision Média: 0.8659554730983302
+Recall Médio: 0.8854166666666666
+----------------------------------------
+Execução 39:
+Tempo de Execução (Regressão): 1.2620 segundos
+Tempo de Execução (Classificação): 0.7212 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.721972326870904
+MAE: 1.3500714134000036
+R²: 0.9771728226046817
+Métricas de Classificação (Classe):
+Accuracy: 0.92
+Precision Média: 0.9523809523809523
+Recall Médio: 0.84636037058045
+----------------------------------------
+Execução 40:
+Tempo de Execução (Regressão): 1.2640 segundos
+Tempo de Execução (Classificação): 0.7102 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.509567538169555
+MAE: 1.3235570904333354
+R²: 0.9843284435992626
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.9503565062388591
+Recall Médio: 0.8726438962681846
+----------------------------------------
+Execução 41:
+Tempo de Execução (Regressão): 1.2551 segundos
+Tempo de Execução (Classificação): 0.6913 segundos
+Métricas de Regressão (Gravidade):
+MSE: 3.5425977741483545
+MAE: 1.2263982390000054
+R²: 0.9881883574962209
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.96841419732986
+Recall Médio: 0.9507884811245789
+----------------------------------------
+Execução 42:
+Tempo de Execução (Regressão): 1.4534 segundos
+Tempo de Execução (Classificação): 0.9527 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.052907794063709
+MAE: 1.236874668000004
+R²: 0.9856562228407892
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.966846361185984
+Recall Médio: 0.956189832254741
+----------------------------------------
+Execução 43:
+Tempo de Execução (Regressão): 1.3977 segundos
+Tempo de Execução (Classificação): 0.8519 segundos
+Métricas de Regressão (Gravidade):
+MSE: 6.143495504480795
+MAE: 1.5936552207000012
+R²: 0.9792406177867788
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9618589743589744
+Recall Médio: 0.9591424682395644
+----------------------------------------
+Execução 44:
+Tempo de Execução (Regressão): 1.6467 segundos
+Tempo de Execução (Classificação): 0.8365 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.673443713532758
+MAE: 1.3223615376666658
+R²: 0.9822331456562361
+Métricas de Classificação (Classe):
+Accuracy: 0.94
+Precision Média: 0.8456460674157302
+Recall Médio: 0.9295343137254901
+----------------------------------------
+Execução 45:
+Tempo de Execução (Regressão): 1.3943 segundos
+Tempo de Execução (Classificação): 0.7067 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.119871525788274
+MAE: 1.3264899400666688
+R²: 0.9827794921959846
+Métricas de Classificação (Classe):
+Accuracy: 0.96
+Precision Média: 0.9726491862567812
+Recall Médio: 0.8852564102564102
+----------------------------------------
+Execução 46:
+Tempo de Execução (Regressão): 1.3549 segundos
+Tempo de Execução (Classificação): 0.6201 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.536074704002338
+MAE: 1.393772732399999
+R²: 0.9779780129727611
+Métricas de Classificação (Classe):
+Accuracy: 0.9866666666666667
+Precision Média: 0.9944444444444445
+Recall Médio: 0.9782608695652174
+----------------------------------------
+Execução 47:
+Tempo de Execução (Regressão): 1.2613 segundos
+Tempo de Execução (Classificação): 0.7742 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.646415591578433
+MAE: 1.3550596606666678
+R²: 0.9814767189725483
+Métricas de Classificação (Classe):
+Accuracy: 0.9533333333333334
+Precision Média: 0.9717432950191571
+Recall Médio: 0.9584725703146756
+----------------------------------------
+Execução 48:
+Tempo de Execução (Regressão): 1.2013 segundos
+Tempo de Execução (Classificação): 0.6441 segundos
+Métricas de Regressão (Gravidade):
+MSE: 4.968677093503975
+MAE: 1.342712904333327
+R²: 0.9808012580133153
+Métricas de Classificação (Classe):
+Accuracy: 0.9466666666666667
+Precision Média: 0.9684196617336152
+Recall Médio: 0.8447773064687168
+----------------------------------------
+Execução 49:
+Tempo de Execução (Regressão): 1.2143 segundos
+Tempo de Execução (Classificação): 0.7545 segundos
+Métricas de Regressão (Gravidade):
+MSE: 5.796197560894295
+MAE: 1.4765982955666648
+R²: 0.9753313252476246
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9578900709219857
+Recall Médio: 0.9366126543209877
+----------------------------------------
+Execução 50:
+Tempo de Execução (Regressão): 1.1473 segundos
+Tempo de Execução (Classificação): 0.7647 segundos
+Métricas de Regressão (Gravidade):
+MSE: 7.68428771702577
+MAE: 1.7247007764999966
+R²: 0.9740924320640337
+Métricas de Classificação (Classe):
+Accuracy: 0.9266666666666666
+Precision Média: 0.9591543513957308
+Recall Médio: 0.913441145281018
 ----------------------------------------
